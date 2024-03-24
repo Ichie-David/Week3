@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: "Inter", sans-serif;
+}
+
+main {
+    margin: 0 64px;
+}
+
+header {
+    margin-top: 64px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+h2 {
+    margin-bottom: 8px;
+    font-weight: 600;
+    font-size: 28px;
+}
+
+p {
+    color: #667185;
+    line-height: 23.2px;
+}
+
+form {
+    width: 50%;
+    margin: 0 auto;
+    font-weight: 500;
+}
+
+.label-fw{
+    display: block;
+    margin: 24px 0 0;
+    font-size: 14px;
+}
+
+.input-fw {
+    width: 100%;
+    padding: 16px;
+    border-radius: 6px;
+    border: #0B4F3E 1px solid;
+}
+
+section {
+    margin: 24px 0 32px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.first {
+    margin-left: 37px;
+    background-color: #FFFFFF00;
+    border: none;
+    padding: 4px 25px 4px 12px;
+    color: #0B4F3E;
+    font-size: 14px;
+    line-height: 20.3px;
+    font-weight: 500;
+}
+
+.second {
+    width: 100%;
+    border-radius: 8px;
+    padding: 16px 24px;
+    color: white;
+    background-color: #0B4F3E;
+    font-weight: 600;
+    border: none;
+}
+
+.bottom{
+    margin: 0 auto;
+    width: 50%;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+
+.third{
+    width: 100%;
+    border-radius: 6px;
+    border: 1.5px solid #D0D5DD;
+    padding: 16px;
+    font-weight: 600;
+    color: #344054;
+    margin-bottom: 12px;
+    background-color: #FFFFFF;
+}
+.fourth{
+    width: 100%;
+    border-radius: 6px;
+    border: 1.5px solid #D0D5DD;
+    padding: 16px;
+    font-weight: 600;
+    color: #344054;
+    margin-bottom: 24px;
+    background-color: #FFFFFF;
+}
+
+img {
+    margin-right: 2px;
+}
+
+.last {
+    text-align: center;
+}
+
+.fifth {
+    border: none;
+    color: #0B4F3E;
+    background-color: #FFFFFF;
+    font-weight: 500;
+    font-size: 14px;
+    padding: 4px 8px;
+    border-radius: 7px;
+}
+
+
